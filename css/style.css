@@ -1,0 +1,74 @@
+.maincontent {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.sidebar {
+    background: #e0e0e0;
+    color: #fffff;
+    font-family: MV BOLI;
+    width: 25%;
+}
+
+.about_user {
+    background: #f7f7f7;
+    font-size: 18px;
+    font-family: MV BOLI;
+    width: 75%;
+}
+
+.user_info {
+    margin-left: 30px;
+}
+
+.username {
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+}
+
+.photo {
+    width: 60%;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.parcont {
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-block-end: 0.15em;
+}
+
+.spn {
+    color: black;
+}
+
+.main {
+    display: flex;
+    margin-left: 30px;
+}
+
+.right_side {
+    width: 50%;
+    margin-right: 15px;
+}
+
+.left_side {
+    width: 50%;
+}
+
+.indent_top {
+    margin-block-end: 0em;
+}
+
+.indent_bottom {
+    margin-block-start: 0em;
+    margin-block-end: 0.15em;
+}
